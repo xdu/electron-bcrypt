@@ -1,0 +1,15 @@
+{
+  "name": "hash",
+  "version": "1.0.0",
+  "description": "See the various hash values of entered text",
+  "repository": "electron/simple-samples",
+  "main": "app.js",
+  "scripts": {
+    "start": "C:/Localapp/tools/electron/electron app.js"
+  },
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}

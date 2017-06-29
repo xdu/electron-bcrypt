@@ -1,0 +1,19 @@
+html, body, .container-fluid {
+  background-color: #D6D8DC;
+}
+
+.text-input {
+  font-size: 13px;
+}
+
+.hash-output {
+  color: #575B5E;
+  font-size: 13px;
+  letter-spacing: 0.9px;
+  white-space: pre-wrap;
+}
+
+.hash-heading {
+  color: #575B5E;
+  font-weight: normal;
+}
